@@ -1,4 +1,3 @@
-//jshint esversion:6
 // mongoose version 5.13.16
 
 const express = require("express");
